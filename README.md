@@ -21,8 +21,8 @@ This project is divided into two main phases: Feature Engineering and Model Trai
 - ``work_bryan.ipynb``: Applies dense vector embeddings for semantic instance extraction and explores different aggregation methods.
 - ``shei_franklin_features.ipynb``: Generates count-based features, diversity features, penetration, demographic information, and applies dimensionality reduction.
 The combined features from `double11.ipynb` and `shei_franklin_features.ipynb` are available for download:
-- [X features](https://drive.google.com/file/d/1PbyqG8q9Ulfet8ip22nWPXkDoPe4S4c4/view)
-- [X features](https://drive.google.com/file/d/1K4SnrmmkbP1ffHHWuXtTLqx1eIskZuvt/view?usp=sharing )
+    - [X features](https://drive.google.com/file/d/1PbyqG8q9Ulfet8ip22nWPXkDoPe4S4c4/view)
+    - [X test features](https://drive.google.com/file/d/1K4SnrmmkbP1ffHHWuXtTLqx1eIskZuvt/view?usp=sharing )
 
 ## Model Training Phase
 - ``deepFm.ipynb``: Trains a model using Deep Factorization Machine (DeepFM).
