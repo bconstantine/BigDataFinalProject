@@ -1,4 +1,4 @@
-This repository contains the code for our submission to the "Repeat Buyers Prediction-Challenge the Baseline" competition hosted by T-Mall on [Tianchi](https://tianchi.aliyun.com/competition/entrance/231576). Our approach secured the 7th position out of 39,037 teams. The team operated under two accounts: "Bryan Constantine Sadihin" and "Made in Tsinghua".
+This repository contains the code for our submission to the "Repeat Buyers Prediction-Challenge the Baseline" competition hosted by T-Mall on [Tianchi](https://tianchi.aliyun.com/competition/entrance/231576). Our approach secured the 7th position out of 39,037 teams. The team operated under two accounts: "BryanConstantine" and "Made in Tsinghua".
 
 ![alt text](image.png)
 
